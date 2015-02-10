@@ -3,7 +3,7 @@ from mock import patch,Mock
 
 
 from pyfsm import FSM
-class TestSignals(unittest.TestCase):
+class TestFSM(unittest.TestCase):
     def setUp(self):
         pass
     def test_nameParsing(self):
