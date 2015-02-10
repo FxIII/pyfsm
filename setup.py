@@ -1,0 +1,1 @@
+from setuptools import setupsetup(    name = "fsm",    version = "0.1",    packages=['fsm'],    install_requires = ["pyee"])
